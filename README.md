@@ -1,8 +1,8 @@
 # Yuki-tweepy
 Download all the images and videos from a given twitter account
 
-
-Practice projiect
+python练习
+下载给定账号的图片和视频
 
 Requirements
 -------
